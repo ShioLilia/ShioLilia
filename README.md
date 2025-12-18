@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 2019-2023 Fudan University
+
+### 2025- the University of Tokyo
+
 <!--
 **ShioLilia/ShioLilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
