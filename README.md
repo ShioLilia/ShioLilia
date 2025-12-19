@@ -3,7 +3,7 @@ ShioLilia-desu. She/Her, born 2001.
 
 ### Footsteps
 
-B.Sc @ Dept. of Chemistry, Fudan University, 2019-2023
+B.Sc @ Dept. of Chemistry, Fudan University, 2019-2024
 
 Master Student @ Department of Chemistry, School of Science, the University of Tokyo, 2025-
 
