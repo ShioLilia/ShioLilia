@@ -1,5 +1,5 @@
 ## Hi there 👋
-## ShioLilia-desu. She/Her, born 2001.
+ShioLilia-desu. She/Her, born 2001.
 
 ### Footsteps
 
