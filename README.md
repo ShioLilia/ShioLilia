@@ -1,9 +1,21 @@
 ## Hi there 👋
+## ShioLilia-desu. She/Her, born 2001.
 
-### 2019-2023 Fudan University
+### Footsteps
 
-### 2025- the University of Tokyo
+B.Sc @ Dept. of Chemistry, Fudan University, 2019-2023
 
+Master Student @ Department of Chemistry, School of Science, the University of Tokyo, 2025-
+
+### Writer, Poet
+
+### Singer
+
+Soprano @ Tokyo Daigaku Shirobara Cho.， 2025-
+
+## Links
+
+(IN MAINTENANCE)
 <!--
 **ShioLilia/ShioLilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
