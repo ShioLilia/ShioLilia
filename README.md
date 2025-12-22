@@ -17,6 +17,7 @@ Soprano @ Tokyo Daigaku Shirobarakai Cho.， 2025-
 
 (IN MAINTENANCE)
 
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShioLilia&show_icons=true)
 
