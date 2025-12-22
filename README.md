@@ -18,7 +18,7 @@ Soprano @ Tokyo Daigaku Shirobarakai Cho.， 2025-
 (IN MAINTENANCE)
 
 
-[[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShioLilia)]
+[[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShioLilia&show_icons=true&theme=tokyonight)]
 
 <!--
 **ShioLilia/ShioLilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
