@@ -11,7 +11,7 @@ Master Student @ Department of Chemistry, School of Science, the University of T
 
 ### Singer
 
-Soprano @ Tokyo Daigaku Shirobara Cho.， 2025-
+Soprano @ Tokyo Daigaku Shirobarakai Cho.， 2025-
 
 ## Links
 
