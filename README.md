@@ -9,6 +9,12 @@ Master Student @ Department of Chemistry, School of Science, the University of T
 
 ### Writer, Poet
 
+Fiction/novel, 诗词歌赋, Shi, Tanka, Sonnet, Poem
+
+### Linguist?
+
+ENG/JPN/CHN/POR/FRA/LAT
+
 ### Singer
 
 Soprano @ Tokyo Daigaku Shirobarakai Cho.， 2025-
