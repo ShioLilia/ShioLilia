@@ -13,7 +13,7 @@ Fiction/novel, 诗词歌赋, Shi, Tanka, Sonnet, Poem
 
 ### Linguist?
 
-ENG/JPN/CHN(WUU/JUAI)/POR/FRA/LAT
+ENG/JPN/CHN(wuu/juai)/POR/FRA/LAT
 
 ### Singer
 
