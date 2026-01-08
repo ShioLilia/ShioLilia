@@ -22,6 +22,7 @@ Soprano @ Tokyo Daigaku Shirobarakai Cho.， 2025-
 ## Links
 
 X @l16384
+
 blog @niconi.moe
 
 ## Stats
